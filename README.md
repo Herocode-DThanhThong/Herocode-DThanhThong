@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herocode-dthanhthong&label=Profile%20views&color=0e75b6&style=flat" alt="herocode-dthanhthong" /> </p>
 
-<p align="left"> <a href="https://twitter.com/duongthanhthong" target="blank"><img src="https://img.shields.io/twitter/follow/duongthanhthong?logo=twitter&style=for-the-badge" alt="duongthanhthong" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Herocode-DThanhThong?tab=repositories](https://github.com/Herocode-DThanhThong?tab=repositories)
 
 - 📫 How to reach me **duongthanhthong0611@gmail.com**
