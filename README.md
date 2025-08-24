@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/duongthanhthong" target="blank"><img src="https://img.shields.io/twitter/follow/duongthanhthong?logo=twitter&style=for-the-badge" alt="duongthanhthong" /></a> </p>
 
-- 🌱 I’m currently learning **React, Angular, Microservice Springboot**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Herocode-DThanhThong?tab=repositories](https://github.com/Herocode-DThanhThong?tab=repositories)
 
 - 📫 How to reach me **duongthanhthong0611@gmail.com**
