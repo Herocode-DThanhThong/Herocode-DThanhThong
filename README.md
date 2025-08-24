@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Herocode-DThanhThong?tab=repositories](https://github.com/Herocode-DThanhThong?tab=repositories)
 
-- 💬 Ask me about **React, Springboot, Angular**
-
 - 📫 How to reach me **duongthanhthong0611@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
